@@ -4,6 +4,7 @@ import {
     createBottomTabNavigator,
     BottomTabBar,
 } from '@react-navigation/bottom-tabs';
+// import * as Svg from 'react-native-svg';
 import Svg, { Path } from 'react-native-svg';
 import { isIphoneX } from 'react-native-iphone-x-helper';
 
